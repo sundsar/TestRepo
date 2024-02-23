@@ -1,0 +1,11 @@
+# I am the global owner
+* @sundsar
+
+#Approvers for py files
+*.py @sundsar
+
+# In this example, I own any file in the `/docs` directory in the root of my repository and any of its subdirectories.
+/extra/ @sundsar
+
+#
+/extra/good/ @org/good_responsible_team
